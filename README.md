@@ -1,6 +1,6 @@
 Olá 👋 Meu nome é Rafael Marcucci, sou um analista de dados e estudante de análise e desenvolvimento de sistemas.
 
-- 📚 conhecimentos: 🐍 Python | 🐘 SQL | 📊 Visualização de dados
+- 📚 Focado: 🐍 Python | 🐘 SQL | 📊 Visualização de dados
 
 - 🌱 Atualmente estou estudando a Certificado Profissional Google Data Analytics e Visualização de Dados.
 - 🤖 O foco atual do curso está em Machine Learning com R
