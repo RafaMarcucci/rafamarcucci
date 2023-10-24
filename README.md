@@ -1,4 +1,4 @@
-Olá 👋 Meu nome é Rafael Marcucci, sou um analista de dados e estudante de análise e desenvolvimento de sistemas.
+Olá 👋 Meu nome é Rafael Marcucci, sou um analista de dados e estudante em análise e desenvolvimento de sistemas.
 
 - 📚 Focado: 🐍 Python | 🐘 SQL | 📊 Visualização de dados
 
