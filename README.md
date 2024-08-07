@@ -1,9 +1,7 @@
-Olá 👋 Meu nome é Rafael Marcucci, sou um analista de dados e estudante em análise e desenvolvimento de sistemas.
+Olá 👋 Meu nome é Rafael Marcucci, sou um estudante em Redes de computadores na Impacta.
 
-- 📚 Focado: 🐍 Python | 🐘 SQL | 📊 Visualização de dados
-
-- 🌱 Atualmente estou estudando a Certificado Profissional Google Data Analytics e Visualização de Dados.
-- 🤖 O foco atual do curso está em Machine Learning com R
+- 📚 Focado: 🐍 Python |   |  CCNA 200-301
+- 🌱 Atualmente estou estudando CCNA 200-301 para conseguir a certificação.
   
-- 👯 Quero colaborar com a comunidade de dados, então decidi começar meus primeiros projetos públicos
+- 👯 Quero colaborar com a comunidade de tecnologia, então decidi começar meus primeiros projetos públicos
 - 📫 Como me encontrar: https://www.linkedin.com/in/rafaelmarcucci/ Email: rafamarcucci@outlook.com
